@@ -44,8 +44,7 @@ db.clients.insert({
     "correu_electornic": "joanalsina@gmail.com",
     "data_registre": new Date(),
     "client_recomenat": null,
-    "empleat": "Manel Visa",
-    "compra": [1]
+    "compra": [1,{"empleat": "Manel Visa"}]
 })
 
 
